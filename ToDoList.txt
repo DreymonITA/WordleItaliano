@@ -1,0 +1,6 @@
+TODO: 
+    Cerca tutte le parole con 5 lettere dal sito: https://www.listediparole.it/5lettereparole.htm,
+    e caricarle tutte in una lista;
+    Alla fine caricare anche la definizione della parola dal sito https://www.treccani.it/vocabolario/PAROLA/;
+    Randomizzare una parola e eseguire le regole del "Wordle";
+    
